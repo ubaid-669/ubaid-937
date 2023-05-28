@@ -1,0 +1,40 @@
+/* Add your custom styles here */
+body {
+    background-image: url("ubaidhg.png");
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-image: url("ubaidhg.png");
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav li a {
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  footer {
+   color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+    font-size: 22px;
+    margin-left: 90px;
+  }
